@@ -13,13 +13,13 @@ body{
     min-height: 100vh;
     background: gray;
 }
-/*.navigation{
+.navegation{
     position: relative;
     height: 500px;
-    background: rgb(45, 185, 45);
+    background: rgb(79, 184, 79);
     width: 300px;
-    box-shadow: rgb(121, 184, 121);
-}*/
+    box-shadow: 10px 0 0 rgb(98, 211, 98);
+}
 
 
 
@@ -41,4 +41,5 @@ body{
 
 
 
-/* Parei em 3:51     https://www.youtube.com/watch?v=Fgdjvclw_bM  */
+
+/* Parei em 5:45     https://www.youtube.com/watch?v=Fgdjvclw_bM  */

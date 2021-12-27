@@ -48,7 +48,19 @@ body{
     text-align: center;
     line-height: 70px;
 }
-
+.navegation ul li a .icon ion-icon{
+    position: relative;
+    font-size: 1.5rem;
+    z-index: 1;
+}
+.navegation ul li a .title{
+    position: relative;
+    display: block;
+    padding-left: 10px;
+    height: 60px;
+    line-height: 60px;
+    white-space: nowrap;
+}
 
 
 

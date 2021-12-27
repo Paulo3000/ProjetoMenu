@@ -6,4 +6,39 @@
     font-family: 'Poppins',sans-serif;
     
 }
-/* Parei em 3:51    https://www.youtube.com/watch?v=Fgdjvclw_bM  */
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: gray;
+}
+/*.navigation{
+    position: relative;
+    height: 500px;
+    background: rgb(45, 185, 45);
+    width: 300px;
+    box-shadow: rgb(121, 184, 121);
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Parei em 3:51     https://www.youtube.com/watch?v=Fgdjvclw_bM  */

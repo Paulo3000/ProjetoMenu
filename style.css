@@ -11,14 +11,20 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: gray;
+    background: #2d2d2d;
 }
 .navegation{
     position: relative;
     height: 500px;
-    background: rgb(79, 184, 79);
+    background: #424242;
+    width: 70px;
+    box-shadow: 10px 0 0 #05d48f;
+    border-left: 10px solid #424242;
+    overflow-x:hidden;
+    transition: 0.5s;
+}
+.navegation:hover{ 
     width: 300px;
-    box-shadow: 10px 0 0 rgb(98, 211, 98);
 }
 .navegation ul{
     position: absolute;
@@ -32,6 +38,8 @@ body{
     position: relative;
     list-style: none;
     width: 100%;
+   /* border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;*/
 }
 .navegation ul li a{
     position: relative;
@@ -39,6 +47,8 @@ body{
     width: 100%;
     text-decoration: none;
     color: #fff;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 .navegation ul li a .icon{
     position: relative;
@@ -61,7 +71,10 @@ body{
     line-height: 60px;
     white-space: nowrap;
 }
-
+.navegation ul li .ativ{
+    background: #05d48f;
+}
+.navegation ul li.ativ a::before
 
 
 
